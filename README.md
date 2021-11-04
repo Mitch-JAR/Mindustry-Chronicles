@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center"> 
-### Mindustry Chronicles
+Mindustry Chronicles
 </h1> 
 
 ## Software Used
