@@ -11,7 +11,8 @@
 ---
 
 <div align="center"> 
-### Mindustry Chronicles\nA vanilla Mindustry enhancement mod.
+### Mindustry Chronicles
+  \nA vanilla Mindustry enhancement mod.
 </div> 
 
 ## Software Used
