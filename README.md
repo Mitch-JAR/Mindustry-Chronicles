@@ -12,11 +12,8 @@
 
 <h1 align="center"> 
 Mindustry Chronicles
-</h1> 
-
-<div align="center">
 A vanilla Mindustry enhancement mod.
-</div>
+</h1> 
 
 ## Software Used
 
