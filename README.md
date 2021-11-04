@@ -10,10 +10,10 @@
 
 ---
 
-<h1 align="center"> 
-Mindustry Chronicles
+<div align="center"> 
+###Mindustry Chronicles
 A vanilla Mindustry enhancement mod.
-</h1> 
+</div> 
 
 ## Software Used
 
