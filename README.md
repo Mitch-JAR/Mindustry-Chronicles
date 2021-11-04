@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center"> 
-Industrio
+Mindustry Chronicles
 </h1> 
 
 <div align="center">
