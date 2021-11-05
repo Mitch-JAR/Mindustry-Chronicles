@@ -1,0 +1,1 @@
+const initialize=function(){Core.assets.load("sounds/menu.ogg",Packages.arc.audio.Music).loaded=cons(s=>Musics.menu=s)};Core.assets.load("sounds/menu.ogg",Packages.arc.audio.Music).loaded=cons(s=>Musics.menu=s);
