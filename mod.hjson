@@ -1,0 +1,8 @@
+name: "MiniChrone"
+displayName: "[orange]Mini[]Chrone"
+author: MitchJAR
+description: "A vanilla [orange]Mindustry Enhancement."
+version: "1.0"
+minGameVersion: "134.1"
+dependencies: [ ]
+hidden: false
