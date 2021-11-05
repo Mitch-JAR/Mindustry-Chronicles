@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Banner.png](https://cdn.discordapp.com/attachments/806713592162418749/905857306263175278/Banner.png)
-[![Discord](https://img.shields.io/discord/704355237246402721.svg?color=7289da&label=Discord&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/JhEJRTTGcC)
+[![Discord](https://img.shields.io/discord/589424042352836609.svg?color=7289da&label=Discord&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/JhEJRTTGcC)
 </div>
 
 ---
